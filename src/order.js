@@ -5,14 +5,14 @@ const products = [
       name: "Dimsum Original",
       description: "(6pcs) Authentic, original taste paired with rich chili oil",
       price: 27000,
-      image: "/public/dimsum-ori.jpg"
+      image: "public/dimsum-ori.jpg"
   },
   {
       id: 2,
       name: "Dimsum Mentai",
       description: "(6pcs) A creamy twist to the classic, charred to perfection",
       price: 34000,
-      image: "/public/not-found.jpg"
+      image: "public/not-found.jpg"
   },
 ];
 

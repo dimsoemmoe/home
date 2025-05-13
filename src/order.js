@@ -12,7 +12,7 @@ const products = [
       name: "Dimsum Mentai",
       description: "(6pcs) A creamy twist to the classic, charred to perfection",
       price: 34000,
-      image: "public/not-found.jpg"
+      image: "public/dimsum-mentai.jpg"
   },
 ];
 
